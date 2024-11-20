@@ -8,4 +8,5 @@ Still a beginner have a lot to learn and implement ahead in future
 - 🖥️ Linux
 - 🧠 Basics of Machine Learning
 - 🔧 SQL
+  
 just a beginner looking forward to a wonderful journey of learning and exploring
